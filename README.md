@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**betysr/betysr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Betul+%F0%9F%91%8B;Full+Stack+Web+Developer" alt="Headline" />
+    </div>
 
-Here are some ideas to get you started:
--->
+<h3 align="center">Full Stack Development is my passion 💪</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+<img height=400" width="800" alt="GIF" align="center" src="https://media1.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e471ja0tczh82erd57qqpa0kohjlr3fojgevwtdy4sk&rid=giphy.gif&ct=g">
+</div>
+
+</br>
+</br>
+
+- 🔭 I’m currently working on Full Stack Web Development.
+- 🌱 I’m currently learning NodeJs.
+
