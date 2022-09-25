@@ -1,6 +1,6 @@
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Betul+%F0%9F%91%8B;Full+Stack+Web+Developer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Betul+%F0%9F%91%8B;Full+Stack+Software+Developer" alt="Headline" />
     </div>
 
 <h3 align="center">Full Stack Development is my passion 💪</h3>
