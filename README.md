@@ -17,4 +17,4 @@
 
 ![](https://komarev.com/ghpvc/?username=betysr&color=green&label=PROFILE+VIEWS)
 
-![](https://hit.yhype.me/github/profile?user_id=111394093)
+![](https://hit.yhype.me/github/profile?user_id=111394093&color=green&label=PROFILE+VIEWS)
