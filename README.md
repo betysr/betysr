@@ -15,7 +15,4 @@
 - 🔭 I’m currently working on Full Stack Web Development.
 - 🌱 I’m currently learning NodeJs.
 
-
-
-
-![](https://hit.yhype.me/github/profile?user_id=111394093)
+![](https://komarev.com/ghpvc/?username=betysr&color=green&label=PROFILE+VIEWS)
