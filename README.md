@@ -12,7 +12,7 @@
 </br>
 </br>
 
-- 🔭 I’m currently working on Full Stack Web Development.
+- 🔭 I’m working on Full Stack Web Development.
 - 🌱 I’m currently learning NodeJs.
 
 ![](https://komarev.com/ghpvc/?username=betysr&color=green&label=PROFILE+VIEWS)
