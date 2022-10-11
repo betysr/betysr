@@ -17,19 +17,6 @@
 
 ![](https://komarev.com/ghpvc/?username=betysr&color=green&label=PROFILE+VIEWS)
 
-## &#x1f4c8; Some of my Github Stats
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=betysr&show_icons=true&include_all_commits=true)](https://github.com/betysr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betysr&layout=compact)](https://github.com/betysr/github-readme-stats)
--->
-<a href="https://github.com/betysr/betysr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betysr&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/betysr/betysr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=betysr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Betul's GitHub Stats" />
-</a>
-
-
-
 ## 🔧 Technologies & Tools
 <!--
 https://github.com/Ileriayo/markdown-badges
